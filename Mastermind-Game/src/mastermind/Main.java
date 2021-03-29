@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
+        //Dla zawartości maina dla klasy Mastermind: swoją odpowiedź należy wpisać ciągiem, np. 1234 i wcisnąć enter
+        //Dla zawartości maina dla klasy Mastermind_2: swoją odpowiedź należy podać wpisując po jednym znaku i potwierdzając każdy pojedynczy znak enterem
         int n = 4;
         int m = 6;
         int c = 9;
